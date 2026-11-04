@@ -7,6 +7,13 @@ I'm a **passionate developer**. *Self-learned* and mastered the web skills. I ha
   <img src="https://img.shields.io/badge/Visit_My_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
+#### Coding Analytics
+<a href="https://wakatime.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://wakatime.com/badge/user/2c3c4e8a-00f8-4300-8d14-6ec7522fd80e.svg" alt="WakaTime Total Coding Time" />
+</a>
+
+</div>
+
 ### Tech Stack
 ---
 
